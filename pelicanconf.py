@@ -4,13 +4,15 @@ from __future__ import unicode_literals
 
 AUTHOR = u'pingus'
 SITENAME = u'OSAlt Site'
-SITEURL = ''
+SITEURL = "http://OSAlt.github.io"
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
+
+MD_EXTENSIONS = ['codehilite(css_class=highlight)','extra']
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -29,6 +31,9 @@ LINKS = (('NixiePixel', 'http://www.nixiepixel.com'),
 SOCIAL = (('twitter', 'http://twitter.com/NixiePixel'),
                   ('github', 'https://github.com/OSAlt'),
                            )
+
+STATIC_PATHS = ['images']
+
 
 DEFAULT_PAGINATION = 10
 

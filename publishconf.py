@@ -10,8 +10,10 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://osalt.github.io/'
+SITEURL = 'http://osalt.github.io'
 RELATIVE_URLS = False
+
+DISPLAY_PAGES_ON_MENU = ['about' ]
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
