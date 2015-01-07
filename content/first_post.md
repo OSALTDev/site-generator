@@ -1,13 +1,6 @@
-Title: My First Review
-Date: 2010-12-03 10:20
-Category: Greeting
+Title: Welcome 
+Date: 2014-01-06 10:20
+Category: Updates
 
-This is a required hello world top post.
+###Welcome to OSAlt, a celebration and elevation of open source, open culture and innovation towards the betterment of humankind and society.
 
-```java
-//This is a java comment.
-
-System.out.println("OMG look syntax highlighting");
-
-
-```

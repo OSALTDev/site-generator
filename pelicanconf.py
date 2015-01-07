@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'pingus'
-SITENAME = u'OSAlt Site'
+SITENAME = u'OSAlt Community Site'
 SITEURL = "http://OSAlt.github.io"
 
 PATH = 'content'
