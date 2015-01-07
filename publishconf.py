@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://osalt.github.io'
+SITEURL = 'osalt.github.io'
 RELATIVE_URLS = False
 
 DISPLAY_PAGES_ON_MENU = ['about' ]
