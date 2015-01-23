@@ -18,6 +18,6 @@ Category: Static
 ###OS Alt Contact Info:
 
   - [IRC](http://client00.chat.mibbit.com/?server=irc.foonetic.net&channel=%23nix-chat&promptPass=true)
-  - [UNOFFICIALMailingList](https://groups.google.com/forum/?hl=en#!forum/osalt)
+  - [Volonteer Mailing List](https://groups.google.com/forum/?hl=en#!forum/osalt)
   - [Patreon](http://patreon.com/nixiepixel)
 
